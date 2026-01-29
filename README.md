@@ -7,7 +7,7 @@ Install dependencies:
 npm install
 
 Update the the bcakend url in .env:
-
+REACT_APP_API_URL="
 
 Start the app:
 
