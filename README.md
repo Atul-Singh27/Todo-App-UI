@@ -1,3 +1,15 @@
-Front end for a sample TODO Application 
+A small React app for managing todos. Simple UI that talks to a backend API. Built mainly for learning and practice.
 
-Update Backend URL in .env
+How to run
+
+Install dependencies:
+
+npm install
+
+Start the app:
+
+npm start
+
+Open in browser:
+
+http://localhost:3000
