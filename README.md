@@ -6,6 +6,9 @@ Install dependencies:
 
 npm install
 
+Update the the bcakend url in .env:
+
+
 Start the app:
 
 npm start
